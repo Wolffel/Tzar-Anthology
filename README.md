@@ -19,6 +19,9 @@ https://drive.google.com/file/d/1zq7ksv7o6UudnkMRzAxr6nJvjZ6QF9l7/view?usp=shari
 
 If you don’t want to burn the iso in a CD or DVD just download the first game. The other two downloads are not necessary if you download the Tzar Anthology first link.
 
+The installation is simple, just copy the content of the iso into a folder (whatever) and use the launcher icon for starting the game. This is a tutorial for playing the game (the game is already configured for working on windows 10):
+
+https://www.youtube.com/watch?v=RdpbXVL9Nsw (as you will see here, the game is downloaded and extracted in a folder, do not play directly from the iso file. Extract the data from the iso and paste it into a folder).
  
 
 Tzar: The Burden of the Crown is a real-time strategy game for the PC published by Take-Two Interactive and developed by the Bulgarian game developer company Haemimont Games. It was released March 31, 2000 in the West. The game was met with moderate success; however, it got mild recognition and audience when it was published as a demo in several gaming magazines.
